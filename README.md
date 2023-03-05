@@ -18,3 +18,5 @@
   - https://zenn.dev/dashboard/scraps
 - wiki
   - https://github.com/junjanjon/zenn-articles/wiki
+- private wiki
+  - https://gitlab.com/kokokokococoa
