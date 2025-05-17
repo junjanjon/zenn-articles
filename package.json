@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "zenn preview",
+    "build": "zenn build"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "zenn-cli": "^0.1.141"
+    "zenn-cli": "latest"
   }
 }
